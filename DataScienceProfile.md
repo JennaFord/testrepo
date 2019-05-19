@@ -24,7 +24,7 @@ op <- par(mar=c(14,4,4,2))
 barplot(jenna$Ranking,names.arg=jenna$Category,ylab="Ranking",col="blue",main="Jenna Ford's Data Science Profile",cex.names=0.8,horiz=F,las=2)
 ```
 
-![](DataScienceProfile_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+![](DataScienceProfile_files/figure-html/BarGraph-1.png)<!-- -->
 
 ```r
 rm(op)
